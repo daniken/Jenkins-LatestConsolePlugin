@@ -1,0 +1,13 @@
+Started by user anonymous
+[workspace] $ /bin/sh -xe /tmp/hudson3837112962022199790.sh
++ echo '#BAT 1'
+#BAT 1
++ echo '<h1>hello</h1>'
+<h1>hello</h1>
++ echo '#BAT 3'
+#BAT 3
++ echo '#BAT 4'
+#BAT 4
++ echo '#BAT 5'
+#BAT 5
+Finished: SUCCESS

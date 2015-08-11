@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Built-By: edabogd
+Created-By: Apache Maven
+Build-Jdk: 1.7.0_80
+Extension-Name: latest-console-plugin
+Specification-Title: Shows specified number of lines from the latest c
+ onsole log.
+Implementation-Title: latest-console-plugin
+Implementation-Version: 1.5-SNAPSHOT
+Group-Id: edabogd.jenkins.plugins
+Short-Name: latest-console-plugin
+Long-Name: Latest Console Plugin
+Url: http://jenkins-ci.org/plugin/latest-console-plugin/
+Plugin-Version: 1.5-SNAPSHOT (private-08/03/2015 16:42-edabogd)
+Hudson-Version: 1.424
+Jenkins-Version: 1.424
+Plugin-Developers: 
+

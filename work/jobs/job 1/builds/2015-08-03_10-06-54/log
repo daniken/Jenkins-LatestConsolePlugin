@@ -1,0 +1,4 @@
+Started by user anonymous
+[workspace] $ /bin/sh -xe /tmp/hudson1282951475338480175.sh
++ ls
+Finished: SUCCESS

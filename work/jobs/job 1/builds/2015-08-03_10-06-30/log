@@ -1,0 +1,6 @@
+Started by user anonymous
+[workspace] $ /bin/sh -xe /tmp/hudson6404099396821161025.sh
++ java -jar home/edabogd/Downloads/jenkins-cli.jar -s http://localhost:8080/ get-view test_view_1
+Error: Unable to access jarfile home/edabogd/Downloads/jenkins-cli.jar
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE

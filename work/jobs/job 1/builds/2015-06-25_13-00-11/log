@@ -1,0 +1,23 @@
+Started by user anonymous
+[workspace] $ /bin/sh -xe /tmp/hudson682246665627015024.sh
++ echo '#BAT 1'
+#BAT 1
++ echo '#BAT 2'
+#BAT 2
++ echo '#BAT 3'
+#BAT 3
++ echo '#CAT 4'
+#CAT 4
++ echo '#BAT 5'
+#BAT 5
++ echo '#BAT 6'
+#BAT 6
++ echo '#BAT 7'
+#BAT 7
++ echo '#CAT 8'
+#CAT 8
++ echo '#BAT 9'
+#BAT 9
++ echo '#CAT 10'
+#CAT 10
+Finished: SUCCESS

@@ -1,0 +1,4 @@
+<j:jelly xmlns:j="jelly:core">
+  <j:set var="job" value="${job}"/>
+  <td>${it.getConsoleLog(job)}</td>
+</j:jelly>

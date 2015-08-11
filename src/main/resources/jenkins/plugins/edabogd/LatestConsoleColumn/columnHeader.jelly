@@ -1,0 +1,5 @@
+<j:jelly xmlns:j="jelly:core">
+  <th>
+    ${%Console Log}
+  </th>
+</j:jelly>

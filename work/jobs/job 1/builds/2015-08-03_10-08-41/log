@@ -1,0 +1,13 @@
+Started by user anonymous
+[workspace] $ /bin/sh -xe /tmp/hudson3713874926463439406.sh
++ echo '#BAT 1'
+#BAT 1
++ echo '#BAT 2'
+#BAT 2
++ echo '#BAT 3'
+#BAT 3
++ echo '#BAT 4'
+#BAT 4
++ echo '#BAT 5'
+#BAT 5
+Finished: SUCCESS

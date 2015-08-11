@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<build>
+  <actions>
+    <hudson.model.CauseAction>
+      <causes>
+        <hudson.model.Cause_-UserCause>
+          <authenticationName>anonymous</authenticationName>
+        </hudson.model.Cause_-UserCause>
+      </causes>
+    </hudson.model.CauseAction>
+  </actions>
+  <number>8</number>
+  <result>FAILURE</result>
+  <duration>512</duration>
+  <charset>ISO-8859-1</charset>
+  <keepLog>false</keepLog>
+  <builtOn></builtOn>
+  <workspace>/proj/atelteadm/thcconfig/lte_ran_iov/eclipseworkspaces/edabogd/latest-console-plugin/work/jobs/job 1/workspace</workspace>
+  <hudsonVersion>1.424</hudsonVersion>
+  <scm class="hudson.scm.NullChangeLogParser"/>
+  <culprits/>
+</build>

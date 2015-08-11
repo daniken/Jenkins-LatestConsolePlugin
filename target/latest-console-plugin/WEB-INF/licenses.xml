@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<l:dependencies xmlns:l='licenses' groupId='edabogd.jenkins.plugins' artifactId='latest-console-plugin' version='1.5-SNAPSHOT'><l:dependency name='Latest Console Plugin' groupId='edabogd.jenkins.plugins' artifactId='latest-console-plugin' version='1.5-SNAPSHOT' url='http://jenkins-ci.org/plugin/latest-console-plugin/'><l:description>Shows specified number of lines from the latest console log.</l:description></l:dependency></l:dependencies>
